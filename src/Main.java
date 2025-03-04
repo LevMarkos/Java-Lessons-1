@@ -26,7 +26,7 @@ public class Main {
             multiplesOfFive.setLength(multiplesOfFive.length() - 2);
             System.out.println(multiplesOfFive);
         } else {
-            System.out.println("нет значений, кратных 5");
+            System.out.println("Нет значений, кратных 5");
         }
         System.out.println("Результат целочисленного деление a на b: " + (a / b));
         System.out.println("Результат деления a на b: " + ((double) a / b));
